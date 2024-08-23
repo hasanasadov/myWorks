@@ -6,3 +6,5 @@ https://hasanasadov.github.io/Code_Academy_Project_Neowise/dev.htm
 https://hasanasadov.github.io/Code_Academy_Basic_Calculator/
 
 https://hasanasadov.github.io/Code_Academy_Input_Hint/
+
+https://hasanasadov.github.io/Code_Academy_JS_Gallery_filter/
