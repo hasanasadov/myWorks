@@ -26,3 +26,6 @@ https://hasanasadov.github.io/Code_Academy_E-Commerce_Cart/home/index.html
 
 #Crypto Tracker
 https://hasanasadov.github.io/Code_Academy_Crypto_Tracker/home/index.html
+
+#PROJECT NFT site (w/server)
+https://hasanasadov.github.io/Code_Academy_Project_NFT/client/pages/home/index.html
