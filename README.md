@@ -18,7 +18,7 @@ https://hasanasadov.github.io/Code_Academy_JS_Gallery_filter/
 #Hasan ToDo App
 https://hasanasadov.github.io/Code_Academy_ToDo/
 
-# Hasan ToDo App with REACT
+#Hasan ToDo App with REACT
 https://hastodo.netlify.app/
 
 #Form Validation
