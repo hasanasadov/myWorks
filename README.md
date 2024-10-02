@@ -6,7 +6,7 @@ https://hastodo.netlify.app/
 https://hasgames.netlify.app/
 
 #PROJECT NEOWISE site
-https://hasanasadov.github.io/CA_Project_Neowise/dev.htm
+https://hasanasadov.github.io/CA_CSS_Project_Neowise/dev.htm
 
 #PROJECT NFT site (w/server)
 https://hasanasadov.github.io/CA_Project_NFT/client/pages/home/
