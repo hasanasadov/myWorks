@@ -2,37 +2,37 @@
 #### ToDo App with REACT
 https://hastodo.netlify.app/
 
-#Hasan Games App with REACT
+#### Hasan Games App with REACT
 https://hasgames.netlify.app/
 
-#PROJECT NEOWISE site
+#### PROJECT NEOWISE site
 https://hasanasadov.github.io/CA_CSS_Project_Neowise/dev.htm
 
-#PROJECT NFT site (w/server)
+#### PROJECT NFT site (w/server)
 https://hasanasadov.github.io/CA_Project_NFT/client/pages/home/
 
-#Crypto Tracker
+#### Crypto Tracker
 https://hasanasadov.github.io/CA_JS_Crypto_Tracker/home/index.html
 
-#Natural Cosmetics
+#### Natural Cosmetics
 https://hasanasadov.github.io/CA_Project_Natural_Cosmetics/
 
-#Calculator
+#### Calculator
 https://hasanasadov.github.io/CA_JS_Basic_Calculator/
 
-#Password input hint
+#### Password input hint
 https://hasanasadov.github.io/CA_JS_Input_Hint/
 
-#Gallery filtering
+#### Gallery filtering
 https://hasanasadov.github.io/CA_JS_Gallery_filter/
 
-#Hasan ToDo App w/js
+#### Hasan ToDo App w/js
 https://hasanasadov.github.io/CA_JS_ToDo/
 
-#Form Validation
+#### Form Validation
 https://hasanasadov.github.io/CA_JS_Form_Validation/
 
-#Card Handling  
+#### Card Handling  
 https://hasanasadov.github.io/CA_JS_E-Commerce_Cart/home/index.html
 
 #Product Management
