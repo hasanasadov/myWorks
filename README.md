@@ -33,5 +33,5 @@ https://hasanasadov.github.io/Code_Academy_JS_Form_Validation/
 https://hasanasadov.github.io/Code_Academy_E-Commerce_Cart/home/index.html
 
 #Product Management
-https://hasanasadov.github.io/Product_Management_JS_basic_CA/
-
+[https://hasanasadov.github.io/Product_Management_JS_basic_CA/
+](https://hasanasadov.github.io/CA_JS_Product_Management/)
