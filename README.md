@@ -12,7 +12,7 @@ https://hasanasadov.github.io/Code_Academy_Project_Neowise/dev.htm
 https://hasanasadov.github.io/Code_Academy_Project_NFT/client/pages/home/index.html
 
 #Crypto Tracker
-https://hasanasadov.github.io/CA_Crypto_Tracker/home/index.html
+https://hasanasadov.github.io/CA_JS_Crypto_Tracker/home/index.html
 
 #Calculator
 https://hasanasadov.github.io/CA_JS_Basic_Calculator/
