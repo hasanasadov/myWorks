@@ -6,10 +6,10 @@ https://hastodo.netlify.app/
 https://hasgames.netlify.app/
 
 #PROJECT NEOWISE site
-https://hasanasadov.github.io/Code_Academy_Project_Neowise/dev.htm
+https://hasanasadov.github.io/CA_Project_Neowise/dev.htm
 
 #PROJECT NFT site (w/server)
-https://hasanasadov.github.io/Code_Academy_Project_NFT/client/pages/home/index.html
+https://hasanasadov.github.io/CA_Project_NFT/client/pages/home/
 
 #Crypto Tracker
 https://hasanasadov.github.io/CA_JS_Crypto_Tracker/home/index.html
