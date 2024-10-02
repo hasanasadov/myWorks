@@ -14,6 +14,9 @@ https://hasanasadov.github.io/CA_Project_NFT/client/pages/home/
 #Crypto Tracker
 https://hasanasadov.github.io/CA_JS_Crypto_Tracker/home/index.html
 
+#Natural Cosmetics
+https://hasanasadov.github.io/CA_Project_Natural_Cosmetics/
+
 #Calculator
 https://hasanasadov.github.io/CA_JS_Basic_Calculator/
 
