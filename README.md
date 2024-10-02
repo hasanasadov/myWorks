@@ -12,19 +12,18 @@ https://hasanasadov.github.io/Code_Academy_Project_Neowise/dev.htm
 https://hasanasadov.github.io/Code_Academy_Project_NFT/client/pages/home/index.html
 
 #Crypto Tracker
-https://hasanasadov.github.io/Code_Academy_Crypto_Tracker/home/index.html
+https://hasanasadov.github.io/CA_Crypto_Tracker/home/index.html
 
 #Calculator
-https://hasanasadov.github.io/Code_Academy_Basic_Calculator/
+https://hasanasadov.github.io/CA_JS_Basic_Calculator/
 
 #Password input hint
-https://hasanasadov.github.io/Code_Academy_Input_Hint/
+https://hasanasadov.github.io/CA_JS_Input_Hint/
 
 #Gallery filtering
-https://hasanasadov.github.io/Code_Academy_JS_Gallery_filter/
+https://hasanasadov.github.io/CA_JS_Gallery_filter/
 
 #Hasan ToDo App w/js
-
 https://hasanasadov.github.io/CA_JS_ToDo/
 
 #Form Validation
