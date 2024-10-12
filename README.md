@@ -1,6 +1,6 @@
 # myWorks
 #### ToDo App with REACT
-https://hastodo.netlify.app/
+https://hastodo.vercel.app/
 
 
 
@@ -10,14 +10,14 @@ https://hasgames.netlify.app/
 
 
 #### PROJECT NEOWISE site
-https://hasanasadov.github.io/CA_CSS_Project_Neowise/dev.htm
+https://hasneowise.vercel.app
 
 #### PROJECT NFT site (w/server)
-https://hasanasadov.github.io/CA_Project_NFT/client/pages/home/
+https://hasnft.vercel.app
 
 
+https://hascrypto.vercel.app
 #### Crypto Tracker
-https://hasanasadov.github.io/CA_JS_Crypto_Tracker/home/index.html
 
 
 #### Natural Cosmetics
