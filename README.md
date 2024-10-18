@@ -16,8 +16,11 @@ https://hasneowise.vercel.app
 https://hasnft.vercel.app
 
 
-https://hascrypto.vercel.app
 #### Crypto Tracker
+https://hascrypto.vercel.app
+
+#### Auth App
+https://hasauth.vercel.app
 
 
 #### Natural Cosmetics
