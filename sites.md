@@ -11,3 +11,5 @@ https://hascrypto.vercel.app
 https://hasneowise.vercel.app
 
 https://hasweather.vercel.app
+
+hhtps://hasauth.vercel.app
