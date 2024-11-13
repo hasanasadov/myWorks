@@ -1,3 +1,7 @@
+https://hasturbo.vercel.app
+
+https://hastodo-next.vercel.app
+
 https://hasnft.vercel.app
 
 https://hastodo.vercel.app
