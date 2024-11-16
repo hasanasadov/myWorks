@@ -31,3 +31,5 @@ https://hasmanagement.vercel.app
 https://haslogin-ui-basic.vercel.app
 
 https://haspassword-hint.vercel.app
+
+https://hasrouting.vercel.app
