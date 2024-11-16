@@ -17,3 +17,11 @@ https://hasneowise.vercel.app
 https://hasweather.vercel.app
 
 https://hasauth.vercel.app
+
+https://hascosmetics.vercel.app
+
+https://hasbreadmeal.vercel.app
+
+https://hasagency.vercel.app
+
+https://hasmanagement.vercel.app/
