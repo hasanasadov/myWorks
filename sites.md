@@ -16,6 +16,8 @@ https://hasneowise.vercel.app
 
 https://hasweather.vercel.app
 
+https://hastony.vercel.app
+
 https://hasauth.vercel.app
 
 https://hascosmetics.vercel.app
