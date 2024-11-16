@@ -29,3 +29,5 @@ https://hasagency.vercel.app
 https://hasmanagement.vercel.app
 
 https://haslogin-ui-basic.vercel.app
+
+https://haspassword-hint.vercel.app
